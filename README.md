@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Ticket properties
-- SLA
-- Departments
-- Permissions
-- Users
+- Configure roles
+- Configure SLA
+- Configure Departments
+- Configure teams
+  
 
 <h2>Configuration Steps</h2>
 
