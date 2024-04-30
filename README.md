@@ -49,6 +49,7 @@ this is what edward hill is allowed to do while working anything outside of this
 
 I set up a virtual network for os ticket so im able to use it 
 
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/7bc8fbbc-ca26-41c5-996b-6db86d03c20b)
 
-
+this is remote desk top which allowed me to connect my mac book so i was able to use windows operating system.
 
