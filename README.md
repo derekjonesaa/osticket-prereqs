@@ -35,8 +35,13 @@ i set up the department which was named system administrator jane miltion was wo
 
 
 
-edward hill was working as support
+edward hill is working as support
 
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/2d11c9d9-8d51-4853-a492-5410629d6e0c)
+
+
+
+this is what edward hill is allowed to do while working anything outside of this list he cannot do which is why his permissons is set the way it is.
 
 <h2>Configuration Steps</h2>
 
