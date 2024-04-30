@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments
 - Configure teams
   
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0e048494-264a-473d-82f7-5a8569571454)
 
 <h2>Configuration Steps</h2>
 
