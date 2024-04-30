@@ -30,6 +30,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0e048494-264a-473d-82f7-5a8569571454)
 
 i set up the department which was named system administrator
+
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/829ee495-62af-44df-a9f0-dc28ede10842)
+
+these are the roles i set for edward hill.
 <h2>Configuration Steps</h2>
 
 <p>
