@@ -55,12 +55,33 @@ By following these steps, you can easily set up a virtual network in Azure, whic
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/7bc8fbbc-ca26-41c5-996b-6db86d03c20b)
 
-Im using Remote Desktop technology which can be used with various operating systems, including Windows, macOS, and Linux. It provides a secure and efficient way to access computers remotely, enabling users to work, troubleshoot, or collaborate from different locations.
+Im using Remote Desktop technology which can be used with various operating systems, including Windows, macOS, and Linux. It provides a secure and efficient way to access computers remotely, enabling users to work, troubleshoot, or collaborate from different locations.To set up and use Remote Desktop, follow these general steps:
+
+1. Enable Remote Desktop on the target computer: Open the System Properties on the computer you want to access remotely. Go to the Remote tab and enable "Allow Remote Connections to this computer." You may need to adjust firewall and network settings to allow Remote Desktop connections.
+
+2. Obtain the IP address or hostname of the target computer: Note down the IP address or hostname of the computer you want to connect to remotely. You will need this information to establish the Remote Desktop connection.
+
+3. Connect to the remote computer from another device: On your remote device (e.g., another computer or mobile device), launch the Remote Desktop client application. If it is not pre-installed, you can download it from the official website for your operating system.
+
+4. Enter the IP address or hostname: In the Remote Desktop client, enter the IP address or hostname of the target computer you want to connect to.
+
+5. Authenticate and connect: Enter the login credentials (username and password) for the target computer when prompted by the Remote Desktop client. Make sure you have the necessary permissions to access the remote computer.
+
+6. Configure display and other settings (optional): The Remote Desktop client may offer options to adjust display settings, audio settings, and other preferences. Customize these settings as needed.
+
+7. Connect and access the remote desktop: After providing the necessary information and settings, click on the "Connect" or "Start" button in the Remote Desktop client. This will establish the connection to the remote computer and show you its desktop interface.
+
+8. Interact with the remote desktop: Once connected, you can use your local device's mouse, keyboard, and touch controls (if applicable) to interact with the remote desktop just as if you were physically sitting in front of it. You can run applications, access files, and perform tasks as if you were using the remote computer directly.
+
+9. Disconnect and end the session: When you are finished with the remote session, you can either log off from the remote computer or simply close the Remote Desktop client application. This will end the connection and return you to your local device.
+
+you have to ensure that the target computer has Remote Desktop access enabled and is reachable from your remote device. Additionally, check for any firewall or network restrictions that might affect the Remote Desktop connection.
+
 
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0e048494-264a-473d-82f7-5a8569571454)
 
-i set up the different department's in os ticket. One was named system administrator and the other was support. Jane miltion was working in the system adminustratir position and edward hill was working in the support positon. 
+i set up the different department's in os ticket. One was named system administrator and the other was support. Jane miltion was working in the system administrator position and edward hill was working in the support positon. 
 To set up osTicket follow these steps:
 
 1. Verify Server Requirements: Ensure that your server meets the requirements for osTicket, such as a compatible web server (e.g., Apache or Nginx), PHP, and a supported database (MySQL or PostgreSQL).
