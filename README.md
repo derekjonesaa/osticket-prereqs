@@ -81,7 +81,7 @@ you have to ensure that the target computer has Remote Desktop access enabled an
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0e048494-264a-473d-82f7-5a8569571454)
 
-i set up the different department's in os ticket. One was named system administrator and the other was support. Jane miltion was working in the system administrator position and edward hill was working in the support positon. 
+I set up the different department's in os ticket. One was named system administrator and the other was support. Jane miltion was working in the system administrator position and edward hill was working in the support positon. 
 To set up osTicket follow these steps:
 
 1. Verify Server Requirements: Ensure that your server meets the requirements for osTicket, such as a compatible web server (e.g., Apache or Nginx), PHP, and a supported database (MySQL or PostgreSQL).
