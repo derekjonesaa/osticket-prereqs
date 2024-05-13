@@ -55,7 +55,7 @@ By following these steps, you can easily set up a virtual network in Azure, whic
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/7bc8fbbc-ca26-41c5-996b-6db86d03c20b)
 
-Im using Remote Desktop technology which can be used with various operating systems, including Windows, macOS, and Linux. It provides a secure and efficient way to access computers remotely, enabling users to work, troubleshoot, or collaborate from different locations.To set up and use Remote Desktop, follow these general steps:
+Im using Remote Desktop technology. Which can be used with various operating systems, including Windows, macOS, and Linux. It provides a secure and efficient way to access computers remotely, enabling users to work, troubleshoot, or collaborate from different locations.To set up and use Remote Desktop, follow these general steps:
 
 1. Enable Remote Desktop on the target computer: Open the System Properties on the computer you want to access remotely. Go to the Remote tab and enable "Allow Remote Connections to this computer." You may need to adjust firewall and network settings to allow Remote Desktop connections.
 
@@ -82,6 +82,7 @@ you have to ensure that the target computer has Remote Desktop access enabled an
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0e048494-264a-473d-82f7-5a8569571454)
 
 I set up the different department's in os ticket. One was named system administrator and the other was support. Jane miltion was working in the system administrator position and edward hill was working in the support positon. 
+
 To set up osTicket follow these steps:
 
 1. Verify Server Requirements: Ensure that your server meets the requirements for osTicket, such as a compatible web server (e.g., Apache or Nginx), PHP, and a supported database (MySQL or PostgreSQL).
