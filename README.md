@@ -27,9 +27,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/c9d707f3-c523-406f-93e1-fd42c8c42570)
-![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/61e194d8-6a27-4076-87d1-53fcca8ab059)
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/0ce583c1-3b8f-4ac5-8366-bf3aa1b0e9bd)
-
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/61e194d8-6a27-4076-87d1-53fcca8ab059)
 Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "level II Support team"). Please reference screenshots above.
 
 
