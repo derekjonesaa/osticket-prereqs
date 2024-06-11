@@ -36,8 +36,7 @@ Log into the OsTicket browser and make sure you are on the "admin panel" (note i
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/a8c6ef48-2e3d-42ff-9ac8-5cebbbaa1be3)
 Go to settings -> Users -> settings again and make sure the box titled "Require registration and login to create tickets" is unchecked. This is will allow everyone access to make tickets without restrictions.
 
-
-![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/ea654a90-e1d3-42b0-be47-087571156d90)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/f6cb6950-e1ce-4ef7-92a2-e6af64bc3394)
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/846452b8-9e61-4a07-abd6-5c5c9971bbac)
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/6e683a39-f469-4ce4-a362-ef8c0d7713c1)
 Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System Administrators" department with "Super admin" permissions level & add him to "Level II support" team. All of these options are located under the "access & Teams" tabs on the same agent screen. Next add "Jane Doe" the same way as previously completed for John Doe. Please reference pictures above that are in order.
