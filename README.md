@@ -42,4 +42,5 @@ Go to settings -> Users -> settings again and make sure the box titled "Require 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/f0f95c21-731a-41ee-9384-e8cdc9f34bcc)
 Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System Administrators" department with "Super admin" permissions level & add him to "Level II support" team. All of these options are located under the "access & Teams" tabs on the same agent screen. Next add "Jane Doe" the same way as previously completed for John Doe. Please reference pictures above that are in order.
 
-
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/1c022c0c-2e30-48fa-8600-bfc319cee548)
+In this step you will configure how customers and employees use the ticketing system software. Go to the agent panel --> Users tab --> create new user --> create two new generic users named "Jerry" and "Kim" with email addresses. Any name or email combonation is fine since these are both just test accounts for the third and final part of this entire Lab titled "Ticket Lifecycle".
