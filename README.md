@@ -44,3 +44,6 @@ Create two new test agents ("John Doe" and "Jane Doe")--> Assign John to "System
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/1c022c0c-2e30-48fa-8600-bfc319cee548)
 In this step you will configure how customers and employees use the ticketing system software. Go to the agent panel --> Users tab --> create new user --> create two new generic users named "Jerry" and "Kim" with email addresses. Any name or email combonation is fine since these are both just test accounts for the third and final part of this entire Lab titled "Ticket Lifecycle".
+
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/fc7f89ba-c5d0-4575-8c1d-b623f9a5580c)
+Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layouts: "Sevice Level I" - helpdesk tickets must be responded to within 1 hour on a 24/7 schedule. "Service Level II" - ticket response time must be within 4 hours on a 24/7 schedule. "Service level III"- within 8 hours on a regular business hour time frame. Go to admin panel -> manage -> SLA to create all three of these SLAs.
