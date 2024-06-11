@@ -25,53 +25,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 <h2>Configuration Steps</h2>
 
-![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/f4d26b9f-6f8e-4e01-8440-1c399a155c1e)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/8fb95fb7-ec10-4bea-8e1d-ed0c7cf00163)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/488855a1-1726-45f6-b601-aa197a93c0ff)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/bb4f43e9-2b1b-46c8-9f93-3ce38d0691d0)
+Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "level II Support team"). Please reference screenshots above.
 
-Setting up an Azure virtual network involves the following steps:
 
-Sign in to the Azure Portal: Access the Azure Portal using your Azure account credentials.
-
-Create a Virtual Network (VNet): Search for "Virtual Networks" in the search bar and select "Virtual Networks" from the search results. Click on "Add" to create a new VNet.
-
-Define VNet settings: Give your VNet a name and choose the subscription, resource group, and location. Specify the address space for the VNet, which defines the IP address range. You can also configure DNS server settings if necessary.
-
-Configure subnets: Within the VNet, create one or more subnets. Define the subnet name and IP address range for each subnet. Ensure that the subnet ranges do not overlap.
-
-Advanced networking options: You may choose to configure additional settings, such as Network Security Groups (NSG) for controlling inbound/outbound traffic, User-Defined Routes (UDR) for custom routing, and VPN Gateway for connecting on-premises networks.
-
-Peer virtual networks (optional): If you have multiple VNets and want to enable communication between them, you can set up VNet peering. This allows network traffic between the peered VNets.
-
-Set up network security: Configure NSGs to enforce network security rules for subnets and control inbound/outbound traffic. You can define rules for allowing or denying specific protocols and port access.
-
-Associate resources: Associate resources like virtual machines (VMs), load balancers, and other services with the virtual network. Ensure that the resources are deployed within the desired subnets.
-
-Test connectivity: Validate connectivity by testing communication between resources within the virtual network. Verify that the configured network settings are functioning as expected.
-
-By following these steps, you can easily set up a virtual network in Azure, which provides a secure and isolated network environment for your applications and services, enabling seamless communication and connectivity.
-
-![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/7bc8fbbc-ca26-41c5-996b-6db86d03c20b)
-
-Im using Remote Desktop technology. Which can be used with various operating systems, including Windows, macOS, and Linux. It provides a secure and efficient way to access computers remotely, enabling users to work, troubleshoot, or collaborate from different locations.To set up and use Remote Desktop, follow these general steps:
-
-1. Enable Remote Desktop on the target computer: Open the System Properties on the computer you want to access remotely. Go to the Remote tab and enable "Allow Remote Connections to this computer." You may need to adjust firewall and network settings to allow Remote Desktop connections.
-
-2. Obtain the IP address or hostname of the target computer: Note down the IP address or hostname of the computer you want to connect to remotely. You will need this information to establish the Remote Desktop connection.
-
-3. Connect to the remote computer from another device: On your remote device (e.g., another computer or mobile device), launch the Remote Desktop client application. If it is not pre-installed, you can download it from the official website for your operating system.
-
-4. Enter the IP address or hostname: In the Remote Desktop client, enter the IP address or hostname of the target computer you want to connect to.
-
-5. Authenticate and connect: Enter the login credentials (username and password) for the target computer when prompted by the Remote Desktop client. Make sure you have the necessary permissions to access the remote computer.
-
-6. Configure display and other settings (optional): The Remote Desktop client may offer options to adjust display settings, audio settings, and other preferences. Customize these settings as needed.
-
-7. Connect and access the remote desktop: After providing the necessary information and settings, click on the "Connect" or "Start" button in the Remote Desktop client. This will establish the connection to the remote computer and show you its desktop interface.
-
-8. Interact with the remote desktop: Once connected, you can use your local device's mouse, keyboard, and touch controls (if applicable) to interact with the remote desktop just as if you were physically sitting in front of it. You can run applications, access files, and perform tasks as if you were using the remote computer directly.
-
-9. Disconnect and end the session: When you are finished with the remote session, you can either log off from the remote computer or simply close the Remote Desktop client application. This will end the connection and return you to your local device.
-
-you have to ensure that the target computer has Remote Desktop access enabled and is reachable from your remote device. Additionally, check for any firewall or network restrictions that might affect the Remote Desktop connection.
 
 
 
