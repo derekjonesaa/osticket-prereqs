@@ -34,8 +34,7 @@ Log into the OsTicket browser and make sure you are on the "admin panel" (note i
 
 
 
-
-![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/6709a74b-c7eb-46e8-8fa9-d7774e30d871)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/a8c6ef48-2e3d-42ff-9ac8-5cebbbaa1be3)
 Go to settings -> Users -> settings again and make sure the box titled "Require registration and login to create tickets" is unchecked. This is will allow everyone access to make tickets without restrictions.
 
 
