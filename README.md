@@ -47,3 +47,8 @@ In this step you will configure how customers and employees use the ticketing sy
 
 ![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/fc7f89ba-c5d0-4575-8c1d-b623f9a5580c)
 Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layouts: "Sevice Level I" - helpdesk tickets must be responded to within 1 hour on a 24/7 schedule. "Service Level II" - ticket response time must be within 4 hours on a 24/7 schedule. "Service level III"- within 8 hours on a regular business hour time frame. Go to admin panel -> manage -> SLA to create all three of these SLAs.
+
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/73b46293-0d06-4e2f-af43-742acd5152cc)
+![image](https://github.com/derekjonesaa/osticket-prereqs/assets/167825508/f3a4c50d-3606-4e0f-947b-65c69a5b8a1e)
+The last step is to configure "help topics". In this step you will create the help ticket names in OsTicketing for users to select when they are having specific issues. The tickets will also need to be assigned to a "department" along with a "SLA priority". You can even auto-assign that particular help desk ticket topic to a group like "Support level I" or level II depending on the severity. Ex: create ticket help topic titled "Network Outage" --> priority level "emergency" --> "Service level I" SLA plan --> sent to the "System Administrators" group --> auto-assigned to the "support team" or to an individual agent like John or Jane. This concludeds how to setup help desk support tickets from the admin level post Installation.
+
